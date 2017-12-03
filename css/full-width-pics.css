@@ -4,8 +4,16 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-full-width-pics/blob/master/LICENSE)
  */
 
+#dali {
+  height: 30rem;
+}
+
 body {
   padding-top: 54px;
+}
+
+.purple {
+  background-color: #5f2291 !important;
 }
 
 @media (min-width: 992px) {
